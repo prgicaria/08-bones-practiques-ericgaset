@@ -10,7 +10,7 @@ el programa et calcularà el quocient, el residu i els ensenya a la pantalla.
 També ensenya el procés de la divisió a la pantalla.
 '''
 __author__ = "Eric Gaset Orus"
-__email__= "egaset@instituticaria.cat"
+__email__ = "egaset@instituticaria.cat"
 __date__ = "2024/10/23"
 
 dividend = int(input("Introdueix el dividend: "))
